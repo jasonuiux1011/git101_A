@@ -11,3 +11,11 @@ header {
   display: flex;
   flex-direction: column;
 }
+
+.card {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 20px;
+  margin: 10px;
+}
